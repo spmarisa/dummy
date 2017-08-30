@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">InterviewFox</string>
+
+    <string name="experience">Experience</string>
+    <string-array name="experience">
+        <item>0-3yrs</item>
+        <item>4-6yrs</item>
+        <item>7-10yrs</item>
+        <item>&gt;11yrs</item>
+    </string-array>
+
+    <string-array name="salary">
+        <item>0-3 Lakhs</item>
+        <item>4-6 Lakhs</item>
+        <item>7-10 Lakhs</item>
+        <item>&gt;11 Lakhs</item>
+    </string-array>
+
+    <string-array name="noticePeriod">
+        <item>0 days</item>
+        <item>15 days</item>
+        <item>30 days</item>
+        <item>45 days</item>
+        <item>60 days</item>
+    </string-array>
+
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--added from old strings file.. to be removed what files not required.-->
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bgColor">#2D397A</string>
+
+
+    <string-array name="skills">
+        <item>Java PHP</item>
+        <item>.Net</item>
+        <item>Java Script</item>
+        <item>HTML 5</item>
+        <item>CSS 3</item>
+        <item>Rubay</item>
+    </string-array>
+    <string name="title_activity_job_search">JobSearchActivity</string>
+    <string name="title_activity_audio_profile">AudioProfileActivity</string>
+
+    <string name="title_activity_tech_interview">TechInterviewActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_audio_profile_retake">AudioProfileRetakeActivity</string>
+    <string name="title_activity_sliding_menu">SlidingMenuActivity</string>
+
+
+    <string name="accept_offer">ACCEPT OFFER</string>
+    <string name="accept_offer_content">Dear Sir/Mam, \n\nI am pleased to inform that I \naccept your offer and will be willing \nto join as per the offer letter. \n\nPlease accept this as my \nacceptance. \n\nThanks, \n</string>
+    <string name="decline_offer_content">Dear Sir/Mam, \n\nI am extremely sorry to decline your offer \nas I have decided to stay in my \ncurrent company. \n\nPlease accept this as my formal decline. \n\nThanks, \n \n \n</string>
+    <string name="decline_offer">DECLINE OFFER</string>
+    <string name="pick_time_slot">PICK A TIME SLOT</string>
+    <string name="not_now">Not Now</string>
+    <string name="submit">SUBMIT</string>
+    <string-array name="decline_reasons">
+        <item>Received another offer</item>
+        <item>Not happy with package</item>
+        <item>Continuing with same company</item>
+        <item>Some other reason</item>
+    </string-array>
+
+    <!-- InterviewsActivity Search Description -->
+    <string name="request_technical">REQUEST TECHNICAL INTERVIEW</string>
+    <string name="begin_pre_screening">Begin Pre-Screening Interview</string>
+    <string name="request_personal">REQUEST IN-PERSON INTERVIEW</string>
+    <string name="job_description"></string>
+
+    <!-- InterviewsActivity Pick A Time Slot -->
+    <string name="pick_timeSlot">PICK A TIME SLOT</string>
+
+    <!-- Dialog Schedule InterviewsActivity -->
+    <string name="start_interview_now">START INTERVIEW NOW</string>
+    <string name="schedule_later">SCHEDULE LATER</string>
+    <string name="btn_cancel">CANCEL</string>
+
+    <!-- InterviewsActivity Decline Negotiate Accept Activity-->
+    <string name="decline">DECLINE</string>
+    <string name="negotiate">NEGOTIATE</string>
+    <string name="accept">ACCEPT</string>
+    <string name="conversations">Conversations</string>
+
+    <!--&lt;!&ndash; Nav Drawer Menu Items &ndash;&gt;-->
+    <!--<string-array name="nav_drawer_items">-->
+    <!--<item>Home</item>-->
+    <!--<item>Find People</item>-->
+    <!--<item>Photos</item>-->
+    <!--<item>Communities</item>-->
+    <!--<item>Pages</item>-->
+    <!--<item>What\'s Hot</item>-->
+    <!--</string-array>-->
+
+    <!-- Nav Drawer List Item Icons -->
+    <!--&lt;!&ndash; Keep them in order as the titles are in &ndash;&gt;-->
+    <!--<array name="nav_drawer_icons">-->
+    <!--<item>@drawable/icon_headphones_darkblue_32px</item>-->
+    <!--<item>@drawable/icon_headphones_darkblue_32px</item>-->
+    <!--<item>@drawable/icon_headphones_darkblue_32px</item>-->
+    <!--<item>@drawable/icon_headphones_darkblue_32px</item>-->
+    <!--<item>@drawable/icon_headphones_darkblue_32px</item>-->
+    <!--<item>@drawable/icon_headphones_darkblue_32px</item>-->
+    <!--</array>-->
+
+    <string-array name="tabs">
+        <item>TAB 1</item>
+        <item>TAB 2</item>
+        <item>TAB 3</item>
+        <item>TAB 4</item>
+        <item>TAB 5</item>
+        <item>TAB 6</item>
+    </string-array>
+
+    <string-array name="navigation_drawer_names">
+        <item>Interviews</item>
+        <item>Job Offers</item>
+        <item>Preferences</item>
+        <item>Settings</item>
+        <!--<item>LogOut</item>-->
+    </string-array>
+
+    <string-array name="navigation_drawer_names_without_login">
+        <item>Interviews</item>
+        <item>Job Offers</item>
+        <item>Preferences</item>
+        <item>Settings</item>
+        <!--<item>Login</item>-->
+    </string-array>
+
+    <string name="session_expired">It seems your session has expired or you have logged in other devise. \nPlease Login again.</string>
+    <string name="maintenance">Under Maintenance</string>
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="job_closed_button">Interview is Closed.  Find similar Jobs</string>
+    <string name="job_declined_button">Interview is Declined.  Find similar Jobs</string>
+    <string name="job_closed">This Interview has been closed.</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_interviews">InterviewsActivity</string>
+
+    <string name="title_activity_search_description">Description</string>
+
+    <string name="noFavorites">You do not have any Favorite jobs. Mark jobs as favorite if you want to prepare and plan to take Pre-Screening Interview later. </string>
+    <string name="noLoginFavorites">Please Login and mark jobs as your favorites, if you want to prepare and plan to take Pre-Screening Interview later.</string>
+    <string name="noTimeline">Please apply for the job, then only you are able to track your job application Timeline.</string>
+    <string name="noLoginTimeline">Please Login and apply for the jobs then track your job application Timeline.</string>
+    <!--Pre-Screening dialog related-->
+    <string name="listen_audio_instructions">Listen to the audio instructions</string>
+    <string name="begin_pre_screening_interview">Begin Pre-Screening Interview now</string>
+    <string name="closing_date_info">The employer will consider applicants who has taken Pre-Screening Interview before</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="notify_attachment">Please attach your resume in pdf or doc format.</string>
+    <string name="noOffersMsg">We recommend you to take more  pre-screening interviews to find your dream job.\nAll the Best, for your job trials.</string>
+    <string name="email_text">Hi Interview Fox,\n I am uploading my resume, so please register me in Interview Fox.\n ThankYou.</string>
+    <string name="email_subject">Register in Interview Fox</string>
+    <string name="noSearchInterviews"> No Open Jobs found for your <b>selected</b> criteria. Please <b>change</b> your filters to find Open Jobs.</string>
+    <string name="noOpenInterviews">Please start taking Pre-Screening Interviews to find your Dream Job. All the Best.</string>
+    <string name="noClosedInterviews">No closed interviews</string>
+    <string name="title_activity_interview_fox">InterviewFoxActivity</string>
+    <string name="noLoginMsg">Please Login to find your dream job</string>
+
+    <!--Validations Range related-->
+    <string name="experience_in_months">Experience in Months (1-150)</string>
+    <string name="number_of_projects">Enter number of projects (1-29)</string>
+    <string name="new_update_title">Please update to new version</string>
+    <string name="new_update_required">We recommend you to update your app to make use of many useful enhacements. \nThank you</string>
+    <string name="playStore_redirect_url"><![CDATA[https://play.google.com/store/apps/details?id=com.leapzen.interviewfox&hl=en]]></string>
+
+    <string name="pre_screening_overlay_text">The employer had mandated to take the pre-screening interview. \nYour Profile is automatically applied to job once you take the pre-screening interview.</string>
+    <string name="title_activity_similar_jobs">SimilarJobsActivity</string>
+    <string name="title_activity_timeline">TimelineActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_basic_profile">BasicProfileActivity</string>
+</resources>
